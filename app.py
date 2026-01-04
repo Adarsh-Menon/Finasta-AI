@@ -3,8 +3,6 @@ def main():
 
 """
 
-
-
 few lines
 
 """
